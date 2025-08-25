@@ -1,11 +1,4 @@
 # SongGrabber
-Download songs, supports Spotify and YouTube, individual tracks and playlists
+Simple GUI for ffmpeg and yt-dlp for downloading songs (optional +video). 
 
-# To do
-add dependencies to build and automatically extract/place them
-
-​	do away with Lite version
-
-add open downloads folder button
-
-make version variable and easy-to-edit
+Supports Spotify and YouTube, individual tracks and playlists.
