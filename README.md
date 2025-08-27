@@ -4,6 +4,5 @@ Supports Spotify and YouTube both individual tracks and playlists.
 
 # To do
 - Add basic audio and video quality options  
-- Add settings menu  
-  - Dark theme  
-  - CPU threads
+- Dark theme
+- 
