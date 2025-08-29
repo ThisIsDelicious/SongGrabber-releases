@@ -4,4 +4,4 @@ Supports Spotify and YouTube both individual tracks and playlists.
 
 # To do
 - Dark theme
-- 
+- Retry failed
